@@ -1,0 +1,4 @@
+# what all libraries to to installed
+streamlit
+google-generativeai
+python.dotenv
